@@ -11,6 +11,11 @@ Tech:
 - thead 
 - tbody 
 - tfoot
+- img 
+- details 
+- b
+- fieldset
+- legend
 2. Semantic Elements
 - header
 - nav 
@@ -18,6 +23,11 @@ Tech:
 - article
 - footer 
 - summary 
+- main
+- figure
+- figcaption
+- figure
+
 3. Other 
 - logo use
 - font awesome site for add font 
@@ -28,3 +38,8 @@ Tech:
 - First Creating head and nav bar and background color 
 - logo used
 - HTML bgcolor 
+- details use
+- img crop 
+- img width 50%
+- form cheat
+
