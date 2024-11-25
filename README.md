@@ -42,4 +42,5 @@ Tech:
 - img crop 
 - img width 50%
 - form cheat
-
+- there are some problem to solve this page. 
+- I will try to best in future 
